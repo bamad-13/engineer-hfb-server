@@ -1,7 +1,7 @@
 {
   "name": "engineer-hfb-server",
-  "version": "1.0.0",
-  "description": "سيرفر موقع المطور حمد فرج بوبكر",
+  "version": "5.0.0",
+  "description": "سيرفر موقع المطور حمد فرج بوبكر — تخزين GitHub",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
