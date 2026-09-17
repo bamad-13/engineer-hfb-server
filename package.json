@@ -1,0 +1,15 @@
+{
+  "name": "engineer-hfb-server",
+  "version": "1.0.0",
+  "description": "سيرفر موقع المطور حمد فرج بوبكر",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
